@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GraphAnalyzerGUI
+comment1.params=
+comment1.target=GraphAnalyzerGUI()
+comment2.params=
+comment2.target=void\ loadAndAnalyzeGraph()
+comment3.params=filePath
+comment3.target=org.graphstream.graph.Graph\ loadGraphFromFile(java.lang.String)
+comment4.params=graph
+comment4.target=double\ calculateNetworkEfficiency(org.graphstream.graph.Graph)
+comment5.params=graph
+comment5.target=double\ calculateWeightedAveragePathLength(org.graphstream.graph.Graph)
+comment6.params=graph
+comment6.target=void\ displayGraph(org.graphstream.graph.Graph)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
